@@ -1,3 +1,17 @@
+# Fork
+
+Well, this is just a fork of [charmbracelet/glow](https://github.com/charmbracelet/glow).  
+I made it to be able to easily avoid the stupid cloud additions of glow.  
+I installed it in the past at a time this wasn't part of glow.  
+In this fork I just deleted every commit which was done after the time I installed it.  
+I don't plan to work on this project.  
+
+glow head: f090b74c602309c1779c80e146e082347995b13d  
+glamour head: 7b96e021e687179aaae7b36bdbaf34b6e46b479a
+
+
+------
+
 # Glow
 
 [![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](https://godoc.org/github.com/charmbracelet/glow) [![Build Status](https://travis-ci.org/charmbracelet/glow.svg?branch=master)](https://travis-ci.org/charmbracelet/glow) [![Go ReportCard](http://goreportcard.com/badge/charmbracelet/glow)](http://goreportcard.com/report/charmbracelet/glow)
