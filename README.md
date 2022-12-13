@@ -1,7 +1,7 @@
 # Fork
 
 Well, this is just a fork of [charmbracelet/glow](https://github.com/charmbracelet/glow).  
-I made it to be able to easily avoid the stupid cloud additions of glow.  
+I made it to be able to easily avoid the cloud additions of glow.  
 I installed it in the past at a time this wasn't part of glow.  
 In this fork I just deleted every commit which was done after the time I installed it.  
 I don't plan to work on this project.  
